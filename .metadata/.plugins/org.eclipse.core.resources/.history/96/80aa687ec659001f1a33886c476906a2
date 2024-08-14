@@ -1,0 +1,23 @@
+package pacote1;
+
+public class classe_EX {
+
+	public static void main(String[] args) {
+		
+		double T_Cel = 25; 
+		double T_Fah = T_Cel * 1.8 + 32 ; 
+		double T_Kel = T_Cel + 273.15; 
+		double T_Rea = T_Cel * 0.8;
+		double T_Ran = T_Cel * 1.8 + 459.67; 
+		
+		System.out.println("T_Cel em Fahrenheit é igual a: ");
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
+		
+		
+		
+	}
+
+}

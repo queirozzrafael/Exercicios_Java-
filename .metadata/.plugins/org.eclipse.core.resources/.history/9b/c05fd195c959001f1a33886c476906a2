@@ -1,0 +1,25 @@
+
+public class EX_02 {
+
+	public static void main(String[] args) {
+		
+		double Prova_pra1 = 2.5;
+		double Prova_teo1 = 5.0;
+		double Prova_int1 = 0.7;
+		double AEP1 = 0.4; 
+		double Prova_pra2 = 1.5;
+		double Prova_teo2 = 4.0;
+		double Prova_int2 = 1.0;
+		double AEP2 = 0.2; 
+		
+		
+		double bim1, bim2; 
+		
+		bim1 = Prova_pra1 + Prova_teo1 + Prova_int1 + AEP1; 
+		bim2 = Prova_pra2 + Prova_teo2 + Prova_int2 + AEP2; 
+		System.out.println(bim1);
+		System.out.println(bim2);
+
+	}
+
+}

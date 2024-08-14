@@ -1,0 +1,16 @@
+package pacote1;
+
+public class classe_EX {
+
+	public static void main(String[] args) {
+		
+		double T_Cel = 25; 
+		double T_Fah = T_Cel * 1.8; 
+		double T_Kel = T_Cel;
+		
+		System.out.println(T_Fah);
+		
+		
+	}
+
+}

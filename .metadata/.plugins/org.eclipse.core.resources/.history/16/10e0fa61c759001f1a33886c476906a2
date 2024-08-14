@@ -1,0 +1,26 @@
+package pacote1;
+
+public class classe_EX {
+
+	public static void main(String[] args) {
+		
+		double T_Cel = 25; 
+		double T_Fah = T_Cel * 1.8 + 32 ; 
+		double T_Kel = T_Cel + 273.15; 
+		double T_Rea = T_Cel * 0.8;
+		double T_Ran = T_Cel * 1.8 + 459.67; 
+		
+		System.out.println("Cap02 - Exercicio 1");
+		System.out.println("Considerando essa temperatura em celsius:  " + T_Cel );
+		System.out.println("Resultado em Fahrenheit:  " + T_Fah );
+		System.out.println("Resultado em Kelvin:  " + T_Kel );
+		System.out.println("Resultado em Reamour:  " + T_Rea );
+		System.out.println("Resultado em Rankine:  " + T_Ran );
+
+		
+		
+		
+		
+	}
+
+}

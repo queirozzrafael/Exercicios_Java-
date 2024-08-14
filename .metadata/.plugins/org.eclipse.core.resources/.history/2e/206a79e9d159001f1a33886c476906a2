@@ -1,0 +1,16 @@
+
+public class EX_04 {
+
+	public static void main(String[] args) {
+
+       double massa = 2000; 
+       double altura = 10; 
+       double seg = 7; 
+       
+       int calc; 
+       calc = (massa * altura / 7) / 715.6999;
+       System.out.println(calc);
+
+	}
+
+}
